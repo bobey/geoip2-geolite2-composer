@@ -1,0 +1,15 @@
+{
+    "name": "bobey/geoip2-geolite2-composer",
+    "description": "This tiny repository aims to provide an easy solution to require GeoIP2 / GeoLite2 databases inside your project using composer.",
+    "keywords": ["geoip", "geolite", "databases", "composer", "mmdb"],
+    "authors": [
+        {
+            "name": "Olivier Balais",
+            "email": "obalais@gmail.com"
+        }
+    ],
+    "require": {},
+    "suggest": {
+        "geoip2/geoip2": "to make use of the geolite2 databases in your php project"
+    }
+}
