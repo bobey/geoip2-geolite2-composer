@@ -30,7 +30,7 @@ use GeoIp2\Database\Reader;
 
 // This creates the Reader object, which should be reused across
 // lookups.
-$reader = new Reader('vendor/bobey/geoip2-geolite2-composer/GeoIP2/GeoIP2-City.mmdb');
+$reader = new Reader('vendor/bobey/geoip2-geolite2-composer/GeoIP2/GeoLite2-City.mmdb');
 
 // Replace "city" with the appropriate method for your database, e.g.,
 // "country".
