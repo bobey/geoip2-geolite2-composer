@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.3.0
+
+- Updated geolite databases: **2015-06-01**
+
 ## v1.2.0
 
 - Updated geolite databases: **2015-03-21**
