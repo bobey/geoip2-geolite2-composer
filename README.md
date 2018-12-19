@@ -10,7 +10,7 @@ This is particularly usefull if you use it in conjunction with the [GeoIP2 PHP A
 Just run the following command in your project root:
 
 ```
-composer require bobey/geoip2-geolite2-composer:~1.0
+composer require bobey/geoip2-geolite2-composer
 ```
 
 ## Use it with the GeoIP2 PHP API
